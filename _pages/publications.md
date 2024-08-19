@@ -10,7 +10,7 @@ redirect_from:
   - /publications.html
 ---
 
-The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">DBLP</a>.
+The full list can be found at <a href="https://dblp.org/pid/184/7209.html">DBLP</a>.
 
 --- 
 1. **Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval**  
