@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 redirect_from: 
@@ -10,18 +10,21 @@ redirect_from:
   - /publications.html
 ---
 
-The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">Google Scholar</a>. <i>(* for corresponding author)</i>
+The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">DBLP</a>.
 
----
-1. **Unbalanced Private Set Union with Reduced Computation and Communication**  
-   Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, **Meng Hao**, Anyu Wang, Xiaoyun Wang  
-   ACM Conference on Computer and Communications Security (ACM CCS), 2024  
+--- 
 1. **Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, Tianwei Zhang  
    USENIX Security, 2024  
 1. **Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning**  
    **Meng Hao**, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
    USENIX Security, 2024
+1. **Unbalanced Private Set Union with Reduced Computation and Communication**  
+   Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, **Meng Hao**, Anyu Wang, Xiaoyun Wang  
+   ACM Conference on Computer and Communications Security (ACM CCS), 2024 
+1. **Decentralized Multi-Client Functional Encryption for Inner Product with Applications to Federated Learning**  
+   Xinyuan Qian, Hongwei Li, **Meng Hao**, Guowen Xu, Haoyong Wang, Yuguang Fang  
+   IEEE Transactions on Dependable and Secure Computing, 2024
 1. **Stealthy Targeted Backdoor Attacks against Image Captioning**  
    Wenshu Fan, Hongwei Li, Wenbo Jiang, **Meng Hao**, Shui Yu, Xiao Zhang  
    IEEE Transactions on Information Forensics and Security, 2024
@@ -31,21 +34,18 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 1. **Vertical Federated Learning across Heterogeneous Regions for Industry 4.0**  
    Rui Zhang, Hongwei Li, **Meng Hao**, Yuan Zhang  
    IEEE Transactions on Industrial Informatics, 2024
-1. **Decentralized Multi-Client Functional Encryption for Inner Product with Applications to Federated Learning**  
-   Xinyuan Qian, Hongwei Li, **Meng Hao**, Guowen Xu, Haoyong Wang, Yuguang Fang  
-   IEEE Transactions on Dependable and Secure Computing, 2024
 1. **FastSecNet: An Efficient Cryptographic Framework for Neural Network Inference**  
    **Meng Hao**, Hongwei Li, Hanxiao Chen, Pengzhi Xing, and Tianwei Zhang  
    IEEE Transactions on Information Forensics and Security, 2023  
 1. **GuardHFL: Privacy Guardian for Heterogeneous Federated Learning**  
    Hanxiao Chen, **Meng Hao**, Hongwei Li, Kangjie Chen, Guowen Xu, Tianwei Zhang, Xilin Zhang  
    International Conference on Machine Learning (ICML), 2023
+1. **Private inference on Transformers**  
+   **Meng Hao**, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang  
+   Neural Information Processing Systems (NeurIPS), 2022
 1. **PriVDT: An Efficient Two-Party Cryptographic Framework for Vertical Decision Trees**  
    Hanxiao Chen, Hongwei Li, Yingzhe Wang, **Meng Hao**, Guowen Xu, Tianwei Zhang  
    IEEE Transactions on Information Forensics and Security, 2022
-1. **Private inference on Transformers**  
-   Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang  
-   Neural Information Processing Systems (NeurIPS), 2022
 1. **Practical Membership Inference Attack Against Collaborative Inference in Industrial IoT**  
    Hanxiao Chen, Hongwei Li, Guishan Dong, **Meng Hao**, Guowen Xu, Haomiao Yang, Zhe Liu  
    IEEE Transactions on Industrial Informatics, 2022
