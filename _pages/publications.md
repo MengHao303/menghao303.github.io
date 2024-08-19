@@ -13,49 +13,45 @@ redirect_from:
 The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">Google Scholar</a>. <i>(* for corresponding author)</i>
 
 ---
-1. **VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair**  
-   **Jian Zhang**, Chong Wang, Anran Li, Wenhan Wang, Tianlin Li, Yang Liu  
-   39th IEEE/ACM International Conference on Automated Software Engineering, ASE 2024.  
-1. **Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications**  
-   Wei Ma, Daoyuan Wu, Yuqiang Sun, Tianwen Wang, Shangqing Liu, **Jian Zhang**, Yue Xue, Yang Liu  
-   47th IEEE/ACM International Conference on Software Engineering, ICSE 2025.  
-1. **TIGER: A Generating-Then-Ranking Framework for Practical Python Type Inference**  
-   Chong Wang, **Jian Zhang**\*, Yiling Lou, Mingwei Liu, Weisong Sun, Yang Liu, Xin Peng  
-   47th IEEE/ACM International Conference on Software Engineering, ICSE 2025.
-1. **Template-Guided Program Repair in the Era of Large Language Models**  
-   Kai Huang, **Jian Zhang**\*, Xiangxin Meng, Yang Liu  
-   47th IEEE/ACM International Conference on Software Engineering, ICSE 2025.
-1. **PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**  
-   Kaixuan Li, **Jian Zhang**\*, Sen Chen, Han Liu, Yang Liu, Yixiang Chen  
-   33rd ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2024.
-1. **Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning**  
-   Anran Li, Yuanyuan Chen, **Jian Zhang**\*, Mingfei Cheng, Yihao Huang, Yueming Wu, Anh Tuan Luu, Han Yu*  
-   ACM SIGMOD International Conference on Management of Data, SIGMOD 2024.
-1. **BadEdit: Backdooring Large Language Models by Model Editing**  
-   Yanzhou Li, Kangjie Chen, Tianlin Li, **Jian Zhang**, Shangqing Liu, Wenhan Wang, Tianwei Zhang, Yang Liu  
-   Twelfth International Conference on Learning Representations, ICLR 2024.
-1. **An Empirical Study on Noisy Label Learning for Program Understanding**  
-   Wenhan Wang, Yanzhou Li, Anran Li, **Jian Zhang**, Wei Ma, Yang Liu  
-   46th International Conference on Software Engineering, ICSE 2024.  
-1. **RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness**  
-   Tianlin Li, Yue Cao, **Jian Zhang**\*, Shiqian Zhao, Yihao Huang, Aishan Liu, Qing Guo, Yang Liu  
-   46th International Conference on Software Engineering, ICSE 2024. [\[PDF\]](http://zhangj111.github.io/files/ICSE24_RUNNER.pdf)
-1. **An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair**  
-   Kai Huang, Xiangxin Meng, **Jian Zhang**\*, Yang Liu, Wenjie Wang, Shuhao Li, Yuqing Zhang\*  
-   38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [\[PDF\]](http://zhangj111.github.io/files/ASE23_APR_Study.pdf) <br>
-   <font color="red">ACM SIGSOFT Distinguished Paper Award</font>
-1. **Learning to Locate and Describe Vulnerabilities**  
-   **Jian Zhang**, Shangqing Liu, Xu Wang, Li Tianlin, Yang Liu  
-   38th IEEE/ACM International Conference on Automated Software Engineering, ASE 2023. [\[PDF\]](http://zhangj111.github.io/files/ASE23_VulTeller.pdf)
-1. **Detecting Condition-related Bugs with Control Flow Graph Neural Network**  
-   **Jian Zhang**, Xu Wang, Hongyu Zhang, Hailong Sun, Xudong Liu, Chunming Hu, Yang Liu  
-   32nd ACM SIGSOFT International Symposium on Software Testing and Analysis, ISSTA 2023. [\[PDF\]](http://zhangj111.github.io/files/ISSTA23_CFGNN.pdf)
-1. **Learning to Handle Exceptions**  
-   **Jian Zhang**, Xu Wang, Hongyu Zhang, Hailong Sun, Yanjun Pu, Xudong Liu  
-   35th IEEE/ACM International Conference on Automated Software Engineering, ASE 2020. [\[PDF\]](http://zhangj111.github.io/files/ASE20_Nexgen.pdf)
-1. **Retrieval-based neural source code summarization**  
-   **Jian Zhang**, Xu Wang, Hongyu Zhang, Hailong Sun, Xudong Liu  
-   42nd International Conference on Software Engineering, ICSE 2020. [\[PDF\]](http://zhangj111.github.io/files/ICSE20_Rencos.pdf)
-1. **A novel neural source code representation based on abstract syntax tree**  
-   **Jian Zhang**, Xu Wang, Hongyu Zhang, Hailong Sun, Kaixuan Wang, Xudong Liu  
-   41st International Conference on Software Engineering, ICSE 2019. [\[PDF\]](http://zhangj111.github.io/files/ICSE19_ASTNN.pdf)
+1. **Unbalanced Private Set Union with Reduced Computation and Communication**  
+   Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, **Meng Hao**, Anyu Wang, Xiaoyun Wang  
+   ACM Conference on Computer and Communications Security (ACM CCS), 2024  
+1. **Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval**  
+   **Meng Hao**, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, Tianwei Zhang  
+   USENIX Security, 2024  
+1. **Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning**  
+   **Meng Hao**, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
+   USENIX Security, 2024
+1. **Stealthy Targeted Backdoor Attacks against Image Captioning**  
+   Wenshu Fan, Hongwei Li, Wenbo Jiang, **Meng Hao**, Shui Yu, Xiao Zhang  
+   IEEE Transactions on Information Forensics and Security, 2024
+1. **Efficient and Privacy-preserving Outsourcing of Gradient Boosting Decision Tree Inference**  
+   Shuai Yuan, Hongwei Li, Xinyuan Qian, **Meng Hao**, Yixiao Zhai, Guowen Xu  
+   IEEE Transactions on Services Computing, 2024
+1. **Vertical Federated Learning across Heterogeneous Regions for Industry 4.0**  
+   Rui Zhang, Hongwei Li, **Meng Hao**, Yuan Zhang  
+   IEEE Transactions on Industrial Informatics, 2024
+1. **Decentralized Multi-Client Functional Encryption for Inner Product with Applications to Federated Learning**  
+   Xinyuan Qian, Hongwei Li, **Meng Hao**, Guowen Xu, Haoyong Wang, Yuguang Fang  
+   IEEE Transactions on Dependable and Secure Computing, 2024
+1. **FastSecNet: An Efficient Cryptographic Framework for Neural Network Inference**  
+   **Meng Hao**, Hongwei Li, Hanxiao Chen, Pengzhi Xing, and Tianwei Zhang  
+   IEEE Transactions on Information Forensics and Security, 2023  
+1. **GuardHFL: Privacy Guardian for Heterogeneous Federated Learning**  
+   Hanxiao Chen, **Meng Hao**, Hongwei Li, Kangjie Chen, Guowen Xu, Tianwei Zhang, Xilin Zhang  
+   International Conference on Machine Learning (ICML), 2023
+1. **PriVDT: An Efficient Two-Party Cryptographic Framework for Vertical Decision Trees**  
+   Hanxiao Chen, Hongwei Li, Yingzhe Wang, **Meng Hao**, Guowen Xu, Tianwei Zhang  
+   IEEE Transactions on Information Forensics and Security, 2022
+1. **Private inference on Transformers**  
+   Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang  
+   Neural Information Processing Systems (NeurIPS), 2022
+1. **Practical Membership Inference Attack Against Collaborative Inference in Industrial IoT**  
+   Hanxiao Chen, Hongwei Li, Guishan Dong, **Meng Hao**, Guowen Xu, Haomiao Yang, Zhe Liu  
+   IEEE Transactions on Industrial Informatics, 2022
+1. **Efficient, Private and Robust Federated Learning**  
+   **Meng Hao**, Hongwei Li, Guowen Xu, Hanxiao Chen, Tianwei Zhang  
+   Annual Computer Security Applications Conference (ACSAC), 2021
+1. **Efficient and Privacy-enhanced Federated Learning for Industrial Artificial Intelligence**  
+   **Meng Hao**, Hongwei Li, Xizhao Luo, Guowen Xu, Haomiao Yang, Sen Liu
+   IEEE Transactions on Industrial Informatics, 2020

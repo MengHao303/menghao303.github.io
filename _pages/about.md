@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
----
-Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). Before that, he was a Ph.D student  under the supervision of [Prof. Xudong Liu](https://scse.buaa.edu.cn/info/1078/2646.htm), and obtained his Ph.D degree in Computer Science from [Beihang University](https://www.buaa.edu.cn/). He also received the B.S degree from Beihang University. His research interests mainly focus on Intelligent Software Engineering, particularly using Deep Learning techniques for Source Code Maintenance to improve software quality and security.
+### About me
+Dr. Meng Hao is currently a Research Scientist at Singapore Management University (SMU), working with [Prof. Robert H. Deng](http://www.mysmu.edu/faculty/robertdeng/). Before that, he obtained his Ph.D degree from University of Electronic Science and Technology of China (UESTC) in 2024 under the supervision of [Prof. Hongwei Li](https://scholar.google.com/citations?user=-o6u2gwAAAAJ&hl=zh-CN&oi=ao). He was also a visiring Ph.D student at Nanyang Technological University in 2021-2023 under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). 
+
+His research interests mainly focus on secure multi-party computation, zero-knowledge proof, private set operations, and developing practical security-enhancing techniques to ensure data privacy and integrity in machine learning. 
 
 
-### News
+<!-- ### News
 
 ---
 - <img src="https://zhangj111.github.io/images/new.gif">&nbsp; Aug 2024: Our paper "VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair" is accepted to ASE 2024. 
@@ -30,7 +32,7 @@ Dr. Jian Zhang is currently a Research Fellow at [Nanyang Technological Universi
 - Jul 2023: Our two papers "Learning to Locate and Describe Vulnerabilities" and "An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair" are accepted to ASE 2023.
 - May 2023: Our paper "Detecting Condition-Related Bugs with Control Flow Graph Neural Network" is accepted to ISSTA 2023.
 
----
+--- -->
 <!--
 <div class="footer" style="padding-left: 6px; font-weight: bold; color: #000000; text-align: center; font-size: 1.5em;">
   <table align="center" style="height: 100px; width: 100px;">
