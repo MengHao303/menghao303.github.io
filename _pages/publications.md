@@ -52,6 +52,6 @@ The full list can be found at <a href="https://dblp.org/pid/184/7209.html">DBLP<
 1. **Efficient, Private and Robust Federated Learning**  
    **Meng Hao**, Hongwei Li, Guowen Xu, Hanxiao Chen, Tianwei Zhang  
    Annual Computer Security Applications Conference (ACSAC), 2021
-1. **Efficient and Privacy-enhanced Federated Learning for Industrial Artificial Intelligence**  
-   **Meng Hao**, Hongwei Li, Xizhao Luo, Guowen Xu, Haomiao Yang, Sen Liu
+1. **Efficient and Privacy-enhanced Federated Learning for Industrial Artificial Intelligence**   
+   **Meng Hao**, Hongwei Li, Xizhao Luo, Guowen Xu, Haomiao Yang, Sen Liu  
    IEEE Transactions on Industrial Informatics, 2020
