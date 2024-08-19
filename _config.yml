@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Zhang's Homepage"
+title                    : "Meng Hao's Homepage"
 title_separator          : "-"
-name                     : &name "Jian Zhang"
+name                     : &name "Meng Hao"
 description              : &description "personal description"
-url                      : "https://zhangj111.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://menghao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhangj111/zhangj111.github.io"
+repository               : "MengHao303/menghao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Zhang (张建)"
-  avatar           : "jianzhang.jpg"
-  bio              : "Research Fellow at NTU"
+  name             : "Meng Hao (郝猛)"
+  avatar           : #"jianzhang.jpg"
+  bio              : "Research Fellow at Singapore Management University"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en"
-  email            : "zhangj3353@gmail.com"
+  googlescholar    : #"https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en"
+  email            : "menghao303@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-8316-1894"
+  orcid            : #"https://orcid.org/0000-0001-8316-1894"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
