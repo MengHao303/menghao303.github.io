@@ -22,6 +22,9 @@ The full list can be found at <a href="https://dblp.org/pid/184/7209.html">DBLP<
 1. **Unbalanced Private Set Union with Reduced Computation and Communication**  
    Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, **Meng Hao**, Anyu Wang, Xiaoyun Wang  
    ACM Conference on Computer and Communications Security (ACM CCS), 2024 
+1. **SecBNN: Efficient Secure Inference on Binary Neural Networks**  
+   Hanxiao Chen, Hongwei Li, **Meng Hao**, Jia Hu, Guowen Xu, Xilin Zhang, Tianwei Zhang  
+   IEEE Transactions on Information Forensics and Security, 2024 
 1. **Decentralized Multi-Client Functional Encryption for Inner Product with Applications to Federated Learning**  
    Xinyuan Qian, Hongwei Li, **Meng Hao**, Guowen Xu, Haoyong Wang, Yuguang Fang  
    IEEE Transactions on Dependable and Secure Computing, 2024
