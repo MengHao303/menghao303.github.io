@@ -14,7 +14,7 @@ Dr. Meng Hao is currently a Research Scientist at Singapore Management Universit
 His research interests mainly focus on secure multi-party computation, zero-knowledge proof, private set operations, and developing practical security-enhancing techniques to ensure data privacy and integrity in machine learning. 
 
 ### Contact
-Email: menghao303 AT gmail DOT com
+Email: menghao303 AT gmail DOT com; menghao AT smu DOT edu DOT sg
 
 <!-- ### News
 
