@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 redirect_from: 
@@ -10,15 +10,15 @@ redirect_from:
   - /publications.html
 ---
 
-The full list can be found at <a href="https://dblp.org/pid/184/7209.html">DBLP</a>.
+<!-- The full list can be found at <a href="https://dblp.org/pid/184/7209.html">DBLP</a>. -->
 
 --- 
-1. **Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval**  
-   **Meng Hao**, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, Tianwei Zhang  
-   USENIX Security, 2024  
 1. **Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning**  
    **Meng Hao**, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
    USENIX Security, 2024
+1. **Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval**  
+   **Meng Hao**, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, Tianwei Zhang  
+   USENIX Security, 2024  
 1. **Unbalanced Private Set Union with Reduced Computation and Communication**  
    Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, **Meng Hao**, Anyu Wang, Xiaoyun Wang  
    ACM Conference on Computer and Communications Security (ACM CCS), 2024 
