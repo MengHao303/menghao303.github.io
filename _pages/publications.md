@@ -13,6 +13,9 @@ redirect_from:
 <!-- The full list can be found at <a href="https://dblp.org/pid/184/7209.html">DBLP</a>. -->
 
 --- 
+1. **Distributed Function Secret Sharing and Applications**  
+   Pengzhi Xing, Hongwei Li, **Meng Hao**, Hanxiao Chen, Jia Hu, Dongxiao Liu  
+   Network and Distributed System Security Symposium (NDSS), 2025
 1. **Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning**  
    **Meng Hao**, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
    USENIX Security, 2024
