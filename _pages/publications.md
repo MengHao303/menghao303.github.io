@@ -14,7 +14,7 @@ redirect_from:
 
 --- 
 
-### Conference Papers
+# Conference Papers
 
 1. **Distributed Function Secret Sharing and Applications**  
    Pengzhi Xing, Hongwei Li, **Meng Hao**, Hanxiao Chen, Jia Hu, Dongxiao Liu  
@@ -39,7 +39,7 @@ redirect_from:
    Annual Computer Security Applications Conference (ACSAC), 2021
 
 
-### Journal Papers
+# Journal Papers
 
 1. **SecBNN: Efficient Secure Inference on Binary Neural Networks**  
    Hanxiao Chen, Hongwei Li, **Meng Hao**, Jia Hu, Guowen Xu, Xilin Zhang, Tianwei Zhang  
