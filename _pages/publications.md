@@ -16,6 +16,9 @@ redirect_from:
 
 # Conference Papers
 
+1. **Practical Keyword Private Information Retrieval from Key-to-Index Mappings**  
+   **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
+   USENIX Security, 2025  
 1. **Distributed Function Secret Sharing and Applications**  
    Pengzhi Xing, Hongwei Li, **Meng Hao**, Hanxiao Chen, Jia Hu, Dongxiao Liu  
    Network and Distributed System Security Symposium (NDSS), 2025
