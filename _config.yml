@@ -86,7 +86,7 @@ author:
   location         : "Singapore Management University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=hgz5GS8AAAAJ&hl=en"
   email            : #"menghao303@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
