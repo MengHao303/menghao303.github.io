@@ -1,0 +1,4 @@
+Sitemap: https://menghao303.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
