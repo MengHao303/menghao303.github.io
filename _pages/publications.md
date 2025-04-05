@@ -20,7 +20,7 @@ redirect_from:
    **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
    USENIX Security, 2025  
 1. **Distributed Function Secret Sharing and Applications**  
-   Pengzhi Xing, Hongwei Li, **Meng Hao**, Hanxiao Chen, Jia Hu, Dongxiao Liu  
+   Pengzhi Xing, Hongwei Li, **Meng Hao^#**, Hanxiao Chen, Jia Hu, Dongxiao Liu  
    Network and Distributed System Security Symposium (NDSS), 2025
 1. **Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning**  
    **Meng Hao**, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
@@ -44,6 +44,9 @@ redirect_from:
 
 # Journal Papers
 
+1. **Charge Your Client: Payable Secure Computation and Its Applications**  
+   Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, **Meng Hao^#**, Lei Zhang, Dongdai Lin  
+   IEEE Transactions on Information Forensics and Security, 2025
 1. **SecBNN: Efficient Secure Inference on Binary Neural Networks**  
    Hanxiao Chen, Hongwei Li, **Meng Hao**, Jia Hu, Guowen Xu, Xilin Zhang, Tianwei Zhang  
    IEEE Transactions on Information Forensics and Security, 2024 
