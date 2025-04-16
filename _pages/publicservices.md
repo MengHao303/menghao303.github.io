@@ -12,7 +12,7 @@ redirect_from:
 
 ### Reviewer
 + ICML 2022-2025
-+ NeurIPS 2022-2024
++ NeurIPS 2022-2025
 + Journals: IEEE TIFS, IEEE TDSC, IEEE TMC, IEEE TPDS, IEEE TNNLS, IEEE TII
 
 ### Sub-reviewer

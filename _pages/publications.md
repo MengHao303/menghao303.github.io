@@ -34,7 +34,7 @@ redirect_from:
 1. **GuardHFL: Privacy Guardian for Heterogeneous Federated Learning**  
    Hanxiao Chen, **Meng Hao**, Hongwei Li, Kangjie Chen, Guowen Xu, Tianwei Zhang, Xilin Zhang  
    International Conference on Machine Learning (ICML), 2023
-1. **Private inference on Transformers**  
+1. **Private Inference on Transformers**  
    **Meng Hao**, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang  
    Neural Information Processing Systems (NeurIPS), 2022
 1. **Efficient, Private and Robust Federated Learning**  
