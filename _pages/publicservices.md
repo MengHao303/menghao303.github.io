@@ -10,14 +10,13 @@ redirect_from:
   - /pubsrvs.html
 ---
 
-### Reviewer
-+ ICML 2022-2025
-+ NeurIPS 2022-2025
-+ Journals: IEEE TIFS, IEEE TDSC, IEEE TMC, IEEE TPDS, IEEE TNNLS, IEEE TII
-
-### Sub-reviewer
+### (Sub-)Reviewer
 + ACM CCS 2024-2025
 + USENIX Security 2025
++ ESORICS 2025
 + AsiaCCS 2023-2024
-+ IACR CiC
++ ICML 2022-2025
++ NeurIPS 2022-2025
++ Journals: IACR CiC, IEEE TIFS, IEEE TDSC, IEEE TMC, IEEE TPDS, IEEE TNNLS, IEEE TII
+
 

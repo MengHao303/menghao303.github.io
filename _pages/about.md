@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 ### About me
-Dr. Meng Hao is currently a Research Scientist at Singapore Management University (SMU), working with [Prof. Robert H. Deng](http://www.mysmu.edu/faculty/robertdeng/). Before that, he obtained his Ph.D degree in 2024 from University of Electronic Science and Technology of China (UESTC) under the supervision of [Prof. Hongwei Li](https://scholar.google.com/citations?user=-o6u2gwAAAAJ&hl=en). He was also a visiting Ph.D student at Nanyang Technological University under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). 
+Dr. Meng Hao is currently a Research Scientist at Singapore Management University (SMU), working with [Prof. Robert H. Deng](http://www.mysmu.edu/faculty/robertdeng/). His research interests mainly focus on applied crypto, including secure multi-party computation, zero-knowledge proof, private set operations, and developing practical security-enhancing techniques to ensure data privacy and integrity in machine learning. 
 
-His research interests mainly focus on secure multi-party computation, zero-knowledge proof, private set operations, and developing practical security-enhancing techniques to ensure data privacy and integrity in machine learning. 
+He obtained his Ph.D degree in 2024 from University of Electronic Science and Technology of China (UESTC) under the supervision of [Prof. Hongwei Li](https://scholar.google.com/citations?user=-o6u2gwAAAAJ&hl=en). He was also a visiting Ph.D student at Nanyang Technological University under the supervision of [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). 
+
+
 
 ### Contact
 Email: menghao AT smu.edu.sg; menghao303 AT gmail.com 
