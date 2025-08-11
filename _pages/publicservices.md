@@ -14,6 +14,7 @@ redirect_from:
 + ACM CCS 2024-2025
 + USENIX Security 2025
 + ESORICS 2025
++ EuroS&P 2026
 + AsiaCCS 2023-2024
 + ICML 2022-2025
 + NeurIPS 2022-2025
