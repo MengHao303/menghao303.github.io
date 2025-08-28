@@ -14,7 +14,7 @@ redirect_from:
 
 --- 
 
-   * Co-first author ✉ Corresponding author
+   \# Co-first author ✉ Corresponding author
 
 1. **Practical Keyword Private Information Retrieval from Key-to-Index Mappings**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
@@ -32,7 +32,7 @@ redirect_from:
    Ziwei Peng, Kaiping Xue, Bin Zhu, Yaxuan Huang, Jian Li, **Meng Hao**, Tianwei Zhang  
    IEEE Transactions on Network Science and Engineering, 2025
 1. **Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning**  
-   **Meng Hao**<sup>*</sup>, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
+   **Meng Hao**<sup>\#</sup>, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
    USENIX Security, 2024
 1. **Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, Tianwei Zhang  
