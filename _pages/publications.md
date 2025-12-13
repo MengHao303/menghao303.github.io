@@ -23,7 +23,7 @@ redirect_from:
    Pengzhi Xing, Hongwei Li, **Meng Hao**<sup>✉</sup>, Hanxiao Chen, Jia Hu, Dongxiao Liu  
    Network and Distributed System Security Symposium (NDSS), 2025
 1. **Conan: Secure and Reliable Machine Learning Inference against Malicious Service Providers**  
-   Hanxiao Chen, Hongwei Li, **Meng Hao**<sup>✉</sup>, Pengzhi Xing, Jia Hu, Wenbo Jiang, Tianwei Zhang, Guowen Xu
+   Hanxiao Chen, Hongwei Li, **Meng Hao**<sup>✉</sup>, Pengzhi Xing, Jia Hu, Wenbo Jiang, Tianwei Zhang, Guowen Xu  
    IEEE Transactions on Information Forensics and Security, 2025
 1. **Charge Your Client: Payable Secure Computation and Its Applications**  
    Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, **Meng Hao**<sup>✉</sup>, Lei Zhang, Dongdai Lin  
