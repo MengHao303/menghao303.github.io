@@ -16,6 +16,9 @@ redirect_from:
 
    \# Co-first author ✉ Corresponding author
 
+1. **An Advanced Gradient Leakage Attack against Duplicate Labels via Model Outputs Reconstruction**  
+   YKunlan Xiang, Haomiao Yang, **Meng Hao**, Zikang Ding, Hongwei Li, Qingchuan Zhao, Tianwei Zhang  
+   IEEE Transactions on Dependable and Secure Computing, 2026
 1. **Practical Keyword Private Information Retrieval from Key-to-Index Mappings**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
    USENIX Security, 2025  
