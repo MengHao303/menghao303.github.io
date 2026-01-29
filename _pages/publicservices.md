@@ -11,6 +11,7 @@ redirect_from:
 ---
 
 ### Program Committee
++ ACM CCS 2026
 + WWW 2026
 + EuroS&P 2026
 + ACNS 2026
@@ -19,7 +20,7 @@ redirect_from:
 + AAAI 2025-2026
 
 ### Sub-Reviewer
-+ PKC 2025
++ PKC 2026
 + ACM CCS 2024-2025
 + USENIX Security 2025
 + ESORICS 2025
