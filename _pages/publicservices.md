@@ -20,6 +20,7 @@ redirect_from:
 + AAAI 2025-2026
 
 ### Sub-Reviewer
++ CRYPTO 2026
 + PKC 2026
 + ACM CCS 2024-2025
 + USENIX Security 2025
