@@ -10,7 +10,8 @@ redirect_from:
   - /pubsrvs.html
 ---
 
-### Program Committee
+
+### Conference Program Committee
 + ACM CCS 2026
 + WWW 2026
 + EuroS&P 2026
@@ -19,13 +20,29 @@ redirect_from:
 + NeurIPS 2022-2025
 + AAAI 2025-2026
 
-### Sub-Reviewer
+### Leading Guest Editor
++ Mathematics 2025-now
+
+### Journal Reviewer
++ IEEE TSC
++ IEEE TIFS
++ IEEE TDSC
++ IEEE TMC
++ IEEE TPDS
++ IEEE TNNLS
++ IEEE TII
++ IEEE TCC
++ IEEE TNSE
++ IEEE TCYB
++ IEEE TSMC
+
+### Conference Sub-Reviewer
 + CRYPTO 2026
 + PKC 2026
 + ACM CCS 2024-2025
 + USENIX Security 2025
 + ESORICS 2025
 + AsiaCCS 2023-2024
-+ Journals: IACR CiC, IEEE TIFS, IEEE TDSC, IEEE TMC, IEEE TPDS, IEEE TNNLS, IEEE TII
++ CiC 2025
 
 
