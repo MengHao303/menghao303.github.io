@@ -16,6 +16,8 @@ redirect_from:
 
    \# Co-first author ✉ Corresponding author
 
+## Conferences
+
 1. **Practical Keyword Private Information Retrieval from Key-to-Index Mappings**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
    USENIX Security, 2025  
@@ -40,6 +42,9 @@ redirect_from:
 1. **Efficient, Private and Robust Federated Learning**  
    **Meng Hao**, Hongwei Li, Guowen Xu, Hanxiao Chen, Tianwei Zhang  
    Annual Computer Security Applications Conference (ACSAC), 2021 
+
+## Journals
+
 1. **An Advanced Gradient Leakage Attack against Duplicate Labels via Model Outputs Reconstruction**  
    Kunlan Xiang, Haomiao Yang, **Meng Hao**, Zikang Ding, Hongwei Li, Qingchuan Zhao, Tianwei Zhang  
    IEEE Transactions on Dependable and Secure Computing, 2026
