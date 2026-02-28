@@ -8,6 +8,7 @@ redirect_from:
   - /awards.html
 ---
 
+- **Stanford/Elsevier's Top 2% Scientist**, 2025
 - **Outstanding Doctoral Dissertation**, Sichuan Association for Cyber Security, 2024
 - **Outstanding Doctoral Dissertation**, UESTC, 2024
 - **1st Prize of Wu Wenjun Artificial Intelligence Science and Technology Award**, Chinese Association for Artificial Intelligence, 2021
