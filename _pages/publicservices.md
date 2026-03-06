@@ -25,9 +25,9 @@ redirect_from:
 + Mathematics 2025-now
 
 ### Journal Reviewer
-+ IEEE TSC
 + IEEE TIFS
 + IEEE TDSC
++ IEEE TSC
 + IEEE TMC
 + IEEE TPDS
 + IEEE TNNLS
