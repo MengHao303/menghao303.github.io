@@ -9,12 +9,11 @@ redirect_from:
 ---
 
 ### About me
-I am a Research Scientist at Singapore Management University (SMU), working with [Prof. Robert H. Deng](http://www.mysmu.edu/faculty/robertdeng/). 
+I am a Research Scientist at Singapore Management University (SMU), working with [Prof. Robert H. Deng](http://www.mysmu.edu/faculty/robertdeng/). My research focuses on privacy-enhancing technologies, particularly secure multi-party computation and zero-knowledge proofs, and on developing practical cryptographic systems that ensure data privacy and integrity.
 
-My research focuses on privacy-enhancing technologies, particularly secure multi-party computation and zero-knowledge proofs, and on developing practical cryptographic systems that ensure data privacy and integrity.
+I received my Ph.D. in 2024 from University of Electronic Science and Technology of China under the supervision of [Prof. Hongwei Li](https://scholar.google.com/citations?user=-o6u2gwAAAAJ&hl=en). I also spent two years at Nanyang Technological University advised by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
 
-I received my Ph.D in 2024 from University of Electronic Science and Technology of China under the supervision of [Prof. Hongwei Li](https://scholar.google.com/citations?user=-o6u2gwAAAAJ&hl=en). I also spent two years at Nanyang Technological University advised by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/). 
-
+I welcome collaborations and am always interested in exploring new research opportunities. Please feel free to contact me!
 
 ### Contact
 Email: menghao AT smu.edu.sg; menghao303 AT gmail.com 
