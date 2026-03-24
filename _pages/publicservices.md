@@ -14,6 +14,7 @@ redirect_from:
 ### Conference Program Committee
 + ACM CCS 2026
 + ACM ASIACCS 2027
++ PETS 2027
 + EuroS&P 2026
 + WWW 2026
 + ACNS 2026
