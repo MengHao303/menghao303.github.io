@@ -12,6 +12,7 @@ redirect_from:
 
 
 ### Conference Program Committee
++ S&P 2027
 + ACM CCS 2026
 + ACM ASIACCS 2027
 + PETS 2027
