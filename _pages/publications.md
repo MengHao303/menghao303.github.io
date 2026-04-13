@@ -52,7 +52,7 @@ redirect_from:
    Hanxiao Chen, Hongwei Li, **Meng Hao**<sup>✉</sup>, Jia Hu, Hao Ren, Haomiao Yang, Tianwei Zhang, Guowen Xu  
    IEEE Transactions on Information Forensics and Security, 2026
 1. **T3AT: Threshold-Authorized, Threshold-Redeemable, and Non-Transferable Anonymous Tokens**  
-   Xincheng Li, Jian Shen, Jianting Ning, **Meng Hao**, Leo Yu Zhang 
+   Xincheng Li, Jian Shen, Jianting Ning, **Meng Hao**, Leo Yu Zhang     
    IEEE Transactions on Information Forensics and Security, 2026
 1. **An Advanced Gradient Leakage Attack against Duplicate Labels via Model Outputs Reconstruction**  
    Kunlan Xiang, Haomiao Yang, **Meng Hao**, Zikang Ding, Hongwei Li, Qingchuan Zhao, Tianwei Zhang  
