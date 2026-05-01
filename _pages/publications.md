@@ -20,7 +20,10 @@ redirect_from:
 
 1. **Efficient Fuzzy Private Set Intersection from Secret-shared OPRF**  
    Xinpeng Yang, **Meng Hao**<sup>✉</sup>, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang  
-   S&P 2026
+   S&P 2026 
+1. **Cloud-Compatible and Scalable Private Messaging via Authentication Piggybacking**  
+   Jingwen Lu, **Meng Hao**<sup>✉</sup>, Yuan Zhang, Yaqing Song, Tianhao Yang  
+   IWQoS 2026 
 1. **Practical Keyword Private Information Retrieval from Key-to-Index Mappings**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
    USENIX Security, 2025  
