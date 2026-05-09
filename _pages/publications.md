@@ -14,7 +14,7 @@ redirect_from:
 
 --- 
 
-   \# Co-first author ✉ Corresponding author
+   \# Co-first author ✉ Corresponding author/Project leader
 
 ## Conferences
 
