@@ -20,10 +20,10 @@ redirect_from:
 
 1. **Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching**  
    **Meng Hao**, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng   
-   CCS 2026 
+   ACM Conference on Computer and Communications Security (ACM CCS), 2026 
 1. **Efficient Fuzzy Private Set Intersection from Secret-shared OPRF**  
    Xinpeng Yang, **Meng Hao**<sup>✉</sup>, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang  
-   S&P 2026
+   IEEE Symposium on Security and Privacy (S&P), 2026
 1. **Practical Keyword Private Information Retrieval from Key-to-Index Mappings**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
    USENIX Security, 2025  
@@ -41,7 +41,7 @@ redirect_from:
    ACM Conference on Computer and Communications Security (ACM CCS), 2024
 1. **Cloud-Compatible and Scalable Private Messaging via Authentication Piggybacking**  
    Jingwen Lu, **Meng Hao**<sup>✉</sup>, Yuan Zhang<sup>✉</sup>, Yaqing Song, Tianhao Yang  
-   IWQoS 2026 
+   IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026 
 1. **GuardHFL: Privacy Guardian for Heterogeneous Federated Learning**  
    Hanxiao Chen, **Meng Hao**, Hongwei Li, Kangjie Chen, Guowen Xu, Tianwei Zhang, Xilin Zhang  
    International Conference on Machine Learning (ICML), 2023 
