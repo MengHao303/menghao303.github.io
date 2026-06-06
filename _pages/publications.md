@@ -18,12 +18,12 @@ redirect_from:
 
 ## Conferences
 
+1. **Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching**  
+   **Meng Hao**, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng   
+   CCS 2026 
 1. **Efficient Fuzzy Private Set Intersection from Secret-shared OPRF**  
    Xinpeng Yang, **Meng Hao**<sup>✉</sup>, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang  
-   S&P 2026 
-1. **Cloud-Compatible and Scalable Private Messaging via Authentication Piggybacking**  
-   Jingwen Lu, **Meng Hao**<sup>✉</sup>, Yuan Zhang<sup>✉</sup>, Yaqing Song, Tianhao Yang  
-   IWQoS 2026 
+   S&P 2026
 1. **Practical Keyword Private Information Retrieval from Key-to-Index Mappings**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
    USENIX Security, 2025  
@@ -39,6 +39,9 @@ redirect_from:
 1. **Unbalanced Private Set Union with Reduced Computation and Communication**  
    Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, **Meng Hao**, Anyu Wang, Xiaoyun Wang  
    ACM Conference on Computer and Communications Security (ACM CCS), 2024
+1. **Cloud-Compatible and Scalable Private Messaging via Authentication Piggybacking**  
+   Jingwen Lu, **Meng Hao**<sup>✉</sup>, Yuan Zhang<sup>✉</sup>, Yaqing Song, Tianhao Yang  
+   IWQoS 2026 
 1. **GuardHFL: Privacy Guardian for Heterogeneous Federated Learning**  
    Hanxiao Chen, **Meng Hao**, Hongwei Li, Kangjie Chen, Guowen Xu, Tianwei Zhang, Xilin Zhang  
    International Conference on Machine Learning (ICML), 2023 
