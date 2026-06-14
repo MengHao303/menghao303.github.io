@@ -27,6 +27,12 @@ redirect_from:
 1. **Efficient Fuzzy Private Set Intersection from Secret-shared OPRF**  
    Xinpeng Yang, **Meng Hao**<sup>✉</sup>, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang  
    IEEE Symposium on Security and Privacy (S&P), 2026
+1. **KyberBridge: Enabling One-to-Many Data Sharing with Kyber Cryptosystem**  
+   Pengfei Wu, Lisha Yao, Guomin Yang, Yang Yang, **Meng Hao**, Haiyang Xue, Robert H. Deng  
+   European Symposium on Research in Computer Security (ESORICS), 2026 
+1. **Cloud-Compatible and Scalable Private Messaging via Authentication Piggybacking**  
+   Jingwen Lu, **Meng Hao**<sup>✉</sup>, Yuan Zhang<sup>✉</sup>, Yaqing Song, Tianhao Yang  
+   IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026
 1. **Practical Keyword Private Information Retrieval from Key-to-Index Mappings**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
    USENIX Security, 2025  
@@ -41,10 +47,7 @@ redirect_from:
    USENIX Security, 2024  
 1. **Unbalanced Private Set Union with Reduced Computation and Communication**  
    Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, **Meng Hao**, Anyu Wang, Xiaoyun Wang  
-   ACM Conference on Computer and Communications Security (ACM CCS), 2024
-1. **Cloud-Compatible and Scalable Private Messaging via Authentication Piggybacking**  
-   Jingwen Lu, **Meng Hao**<sup>✉</sup>, Yuan Zhang<sup>✉</sup>, Yaqing Song, Tianhao Yang  
-   IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026 
+   ACM Conference on Computer and Communications Security (ACM CCS), 2024 
 1. **GuardHFL: Privacy Guardian for Heterogeneous Federated Learning**  
    Hanxiao Chen, **Meng Hao**, Hongwei Li, Kangjie Chen, Guowen Xu, Tianwei Zhang, Xilin Zhang  
    International Conference on Machine Learning (ICML), 2023 
