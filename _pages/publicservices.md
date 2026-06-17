@@ -12,8 +12,9 @@ redirect_from:
 
 
 ### Conference Program Committee
-+ S&P 2027
-+ ACM ASIACCS 2027
++ S&P 2027 
++ USENIX Security 2027
++ ACM ASIACCS 2027 
 + PETS 2027
 + ACM CCS 2026
 + EuroS&P 2026
