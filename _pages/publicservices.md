@@ -12,6 +12,10 @@ redirect_from:
 
 
 ### Conference Program Committee
++ 2027 S&P, USENIX Security, ACM ASIACCS, PETS
++ 2026 ACM CCS, EuroS&P, WWW, ACNS
+
+<!--
 + S&P 2027 
 + USENIX Security 2027
 + ACM ASIACCS 2027 
@@ -23,6 +27,7 @@ redirect_from:
 + ICML 2022-2026
 + NeurIPS 2022-2025
 + AAAI 2025-2026
+
 
 ### Conference Sub-Reviewer
 + CRYPTO 2026
@@ -48,7 +53,7 @@ redirect_from:
 + IEEE TNSE
 + IEEE TCYB
 + IEEE TSMC
-
+-->
 
 
 

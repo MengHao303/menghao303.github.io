@@ -1,3 +1,4 @@
+<!--
 ---
 layout: archive
 title: "Awards"
@@ -15,4 +16,4 @@ redirect_from:
 - **1st Prize of Wu Wenjun Artificial Intelligence Science and Technology Award**, Chinese Association for Artificial Intelligence, 2021
 - **National Scholarship**, Ministry of Education of P.R.China, 2019
 - **Outstanding Bachelor Dissertation**, UESTC, 2018
-
+-->

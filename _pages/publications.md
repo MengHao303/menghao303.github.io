@@ -14,7 +14,7 @@ redirect_from:
 
 --- 
 
-   \# Co-first author ✉ Corresponding author/Project leader
+   <!-- \# Co-first author ✉ Corresponding author/Project leader -->
 
 ## Conferences
 
@@ -25,22 +25,22 @@ redirect_from:
    **Meng Hao**, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng   
    USENIX Security, 2026 
 1. **Efficient Fuzzy Private Set Intersection from Secret-shared OPRF**  
-   Xinpeng Yang, **Meng Hao**<sup>✉</sup>, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang  
+   Xinpeng Yang, **Meng Hao**, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang  
    IEEE Symposium on Security and Privacy (S&P), 2026
 1. **KyberBridge: Enabling One-to-Many Data Sharing with Kyber Cryptosystem**  
    Pengfei Wu, Lisha Yao, Guomin Yang, Yang Yang, **Meng Hao**, Haiyang Xue, Robert H. Deng  
    European Symposium on Research in Computer Security (ESORICS), 2026 
 1. **Cloud-Compatible and Scalable Private Messaging via Authentication Piggybacking**  
-   Jingwen Lu, **Meng Hao**<sup>✉</sup>, Yuan Zhang<sup>✉</sup>, Yaqing Song, Tianhao Yang  
+   Jingwen Lu, **Meng Hao**, Yuan Zhang, Yaqing Song, Tianhao Yang  
    IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026
 1. **Practical Keyword Private Information Retrieval from Key-to-Index Mappings**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
    USENIX Security, 2025  
 1. **Distributed Function Secret Sharing and Applications**  
-   Pengzhi Xing, Hongwei Li, **Meng Hao**<sup>✉</sup>, Hanxiao Chen, Jia Hu, Dongxiao Liu  
+   Pengzhi Xing, Hongwei Li, **Meng Hao**, Hanxiao Chen, Jia Hu, Dongxiao Liu  
    Network and Distributed System Security Symposium (NDSS), 2025
 1. **Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning**  
-   **Meng Hao**<sup>\#</sup>, Hanxiao Chen<sup>\#</sup>, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
+   **Meng Hao**, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
    USENIX Security, 2024
 1. **Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval**  
    **Meng Hao**, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, Tianwei Zhang  
@@ -61,7 +61,7 @@ redirect_from:
 ## Journals
 
 1. **Sanitizer: Blazing-fast, Private and Robust Federated Learning**  
-   Hanxiao Chen, Hongwei Li, **Meng Hao**<sup>✉</sup>, Jia Hu, Hao Ren, Haomiao Yang, Tianwei Zhang, Guowen Xu  
+   Hanxiao Chen, Hongwei Li, **Meng Hao**, Jia Hu, Hao Ren, Haomiao Yang, Tianwei Zhang, Guowen Xu  
    IEEE Transactions on Information Forensics and Security, 2026
 1. **T3AT: Threshold-Authorized, Threshold-Redeemable, and Non-Transferable Anonymous Tokens**  
    Xincheng Li, Jian Shen, Jianting Ning, **Meng Hao**, Leo Yu Zhang     
@@ -70,10 +70,10 @@ redirect_from:
    Kunlan Xiang, Haomiao Yang, **Meng Hao**, Zikang Ding, Hongwei Li, Qingchuan Zhao, Tianwei Zhang  
    IEEE Transactions on Dependable and Secure Computing, 2026
 1. **Conan: Secure and Reliable Machine Learning Inference against Malicious Service Providers**  
-   Hanxiao Chen, Hongwei Li, **Meng Hao**<sup>✉</sup>, Pengzhi Xing, Jia Hu, Wenbo Jiang, Tianwei Zhang, Guowen Xu  
+   Hanxiao Chen, Hongwei Li, **Meng Hao**, Pengzhi Xing, Jia Hu, Wenbo Jiang, Tianwei Zhang, Guowen Xu  
    IEEE Transactions on Information Forensics and Security, 2025
 1. **Charge Your Client: Payable Secure Computation and Its Applications**  
-   Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, **Meng Hao**<sup>✉</sup>, Lei Zhang, Dongdai Lin  
+   Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, **Meng Hao**, Lei Zhang, Dongdai Lin  
    IEEE Transactions on Information Forensics and Security, 2025
 1. **HyperSiniel: Guaranteed Output Delivery Comes (Almost) Free in Private Delegation of zkSNARKs**  
    Yunbo Yang, Yuejia Cheng, Junkai Liang, Kailun Wang, Xuanming Liu, Xiaoguo Li, Jianfei Sun, Jiachen Shen, Xiaolei Dong, Zhenfu Cao, **Meng Hao**, Guomin Yang, Kui Ren, Robert H. Deng  
