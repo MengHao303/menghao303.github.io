@@ -16,7 +16,7 @@ I received my Ph.D. in 2024 from University of Electronic Science and Technology
 I welcome collaborations and am always interested in exploring new research opportunities. Please feel free to contact me!
 
 ### Contact
-Email: menghao AT smu.edu.sg; menghao303 AT gmail.com 
+Email: menghao@smu.edu.sg; menghao303@gmail.com 
 
 <!-- ### News
 
