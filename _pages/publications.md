@@ -19,95 +19,95 @@ redirect_from:
 ## Conferences
 
 1. **Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching**  
-   **Meng Hao**, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng   
+   Meng Hao, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng   
    ACM Conference on Computer and Communications Security (ACM CCS), 2026 
 1. **Enhanced Private Set Union from Secret-shared Private Membership Test**  
-   **Meng Hao**, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng   
+   Meng Hao, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng   
    USENIX Security, 2026 
 1. **Efficient Fuzzy Private Set Intersection from Secret-shared OPRF**  
-   Xinpeng Yang, **Meng Hao**, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang  
+   Xinpeng Yang, Meng Hao, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang  
    IEEE Symposium on Security and Privacy (S&P), 2026
 1. **KyberBridge: Enabling One-to-Many Data Sharing with Kyber Cryptosystem**  
-   Pengfei Wu, Lisha Yao, Guomin Yang, Yang Yang, **Meng Hao**, Haiyang Xue, Robert H. Deng  
+   Pengfei Wu, Lisha Yao, Guomin Yang, Yang Yang, Meng Hao, Haiyang Xue, Robert H. Deng  
    European Symposium on Research in Computer Security (ESORICS), 2026 
 1. **Cloud-Compatible and Scalable Private Messaging via Authentication Piggybacking**  
-   Jingwen Lu, **Meng Hao**, Yuan Zhang, Yaqing Song, Tianhao Yang  
+   Jingwen Lu, Meng Hao, Yuan Zhang, Yaqing Song, Tianhao Yang  
    IEEE/ACM International Symposium on Quality of Service (IWQoS), 2026
 1. **Practical Keyword Private Information Retrieval from Key-to-Index Mappings**  
-   **Meng Hao**, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
+   Meng Hao, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng  
    USENIX Security, 2025  
 1. **Distributed Function Secret Sharing and Applications**  
-   Pengzhi Xing, Hongwei Li, **Meng Hao**, Hanxiao Chen, Jia Hu, Dongxiao Liu  
+   Pengzhi Xing, Hongwei Li, Meng Hao, Hanxiao Chen, Jia Hu, Dongxiao Liu  
    Network and Distributed System Security Symposium (NDSS), 2025
 1. **Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning**  
-   **Meng Hao**, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
+   Meng Hao, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang  
    USENIX Security, 2024
 1. **Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval**  
-   **Meng Hao**, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, Tianwei Zhang  
+   Meng Hao, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, Tianwei Zhang  
    USENIX Security, 2024  
 1. **Unbalanced Private Set Union with Reduced Computation and Communication**  
-   Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, **Meng Hao**, Anyu Wang, Xiaoyun Wang  
+   Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, Meng Hao, Anyu Wang, Xiaoyun Wang  
    ACM Conference on Computer and Communications Security (ACM CCS), 2024 
 1. **GuardHFL: Privacy Guardian for Heterogeneous Federated Learning**  
-   Hanxiao Chen, **Meng Hao**, Hongwei Li, Kangjie Chen, Guowen Xu, Tianwei Zhang, Xilin Zhang  
+   Hanxiao Chen, Meng Hao, Hongwei Li, Kangjie Chen, Guowen Xu, Tianwei Zhang, Xilin Zhang  
    International Conference on Machine Learning (ICML), 2023 
 1. **Iron: Private Inference on Transformers**  
-   **Meng Hao**, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang  
+   Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang  
    Neural Information Processing Systems (NeurIPS), 2022
 1. **Efficient, Private and Robust Federated Learning**  
-   **Meng Hao**, Hongwei Li, Guowen Xu, Hanxiao Chen, Tianwei Zhang  
+   Meng Hao, Hongwei Li, Guowen Xu, Hanxiao Chen, Tianwei Zhang  
    Annual Computer Security Applications Conference (ACSAC), 2021 
 
 ## Journals
 
 1. **Sanitizer: Blazing-fast, Private and Robust Federated Learning**  
-   Hanxiao Chen, Hongwei Li, **Meng Hao**, Jia Hu, Hao Ren, Haomiao Yang, Tianwei Zhang, Guowen Xu  
+   Hanxiao Chen, Hongwei Li, Meng Hao, Jia Hu, Hao Ren, Haomiao Yang, Tianwei Zhang, Guowen Xu  
    IEEE Transactions on Information Forensics and Security, 2026
 1. **T3AT: Threshold-Authorized, Threshold-Redeemable, and Non-Transferable Anonymous Tokens**  
-   Xincheng Li, Jian Shen, Jianting Ning, **Meng Hao**, Leo Yu Zhang     
+   Xincheng Li, Jian Shen, Jianting Ning, Meng Hao, Leo Yu Zhang     
    IEEE Transactions on Information Forensics and Security, 2026
 1. **An Advanced Gradient Leakage Attack against Duplicate Labels via Model Outputs Reconstruction**  
-   Kunlan Xiang, Haomiao Yang, **Meng Hao**, Zikang Ding, Hongwei Li, Qingchuan Zhao, Tianwei Zhang  
+   Kunlan Xiang, Haomiao Yang, Meng Hao, Zikang Ding, Hongwei Li, Qingchuan Zhao, Tianwei Zhang  
    IEEE Transactions on Dependable and Secure Computing, 2026
 1. **Conan: Secure and Reliable Machine Learning Inference against Malicious Service Providers**  
-   Hanxiao Chen, Hongwei Li, **Meng Hao**, Pengzhi Xing, Jia Hu, Wenbo Jiang, Tianwei Zhang, Guowen Xu  
+   Hanxiao Chen, Hongwei Li, Meng Hao, Pengzhi Xing, Jia Hu, Wenbo Jiang, Tianwei Zhang, Guowen Xu  
    IEEE Transactions on Information Forensics and Security, 2025
 1. **Charge Your Client: Payable Secure Computation and Its Applications**  
-   Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, **Meng Hao**, Lei Zhang, Dongdai Lin  
+   Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, Meng Hao, Lei Zhang, Dongdai Lin  
    IEEE Transactions on Information Forensics and Security, 2025
 1. **HyperSiniel: Guaranteed Output Delivery Comes (Almost) Free in Private Delegation of zkSNARKs**  
-   Yunbo Yang, Yuejia Cheng, Junkai Liang, Kailun Wang, Xuanming Liu, Xiaoguo Li, Jianfei Sun, Jiachen Shen, Xiaolei Dong, Zhenfu Cao, **Meng Hao**, Guomin Yang, Kui Ren, Robert H. Deng  
+   Yunbo Yang, Yuejia Cheng, Junkai Liang, Kailun Wang, Xuanming Liu, Xiaoguo Li, Jianfei Sun, Jiachen Shen, Xiaolei Dong, Zhenfu Cao, Meng Hao, Guomin Yang, Kui Ren, Robert H. Deng  
    IEEE Transactions on Dependable and Secure Computing, 2025
 1. **The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks through Model Poisoning**  
-   Kunlan Xiang, Haomiao Yang, **Meng Hao**, Shaofeng Li, Haoxin Wang, Zikang Ding, Wenbo Jiang, Tianwei Zhang  
+   Kunlan Xiang, Haomiao Yang, Meng Hao, Shaofeng Li, Haoxin Wang, Zikang Ding, Wenbo Jiang, Tianwei Zhang  
    IEEE Transactions on Information Forensics and Security, 2025
 1. **PrivTF: Efficient and Privacy-Preserving Transformer Inference with Optimized Protocols for Secure NLP**  
-   Ziwei Peng, Kaiping Xue, Bin Zhu, Yaxuan Huang, Jian Li, **Meng Hao**, Tianwei Zhang  
+   Ziwei Peng, Kaiping Xue, Bin Zhu, Yaxuan Huang, Jian Li, Meng Hao, Tianwei Zhang  
    IEEE Transactions on Network Science and Engineering, 2025
 1. **SecBNN: Efficient Secure Inference on Binary Neural Networks**  
-   Hanxiao Chen, Hongwei Li, **Meng Hao**, Jia Hu, Guowen Xu, Xilin Zhang, Tianwei Zhang  
+   Hanxiao Chen, Hongwei Li, Meng Hao, Jia Hu, Guowen Xu, Xilin Zhang, Tianwei Zhang  
    IEEE Transactions on Information Forensics and Security, 2024 
 1. **Decentralized Multi-Client Functional Encryption for Inner Product with Applications to Federated Learning**  
-   Xinyuan Qian, Hongwei Li, **Meng Hao**, Guowen Xu, Haoyong Wang, Yuguang Fang  
+   Xinyuan Qian, Hongwei Li, Meng Hao, Guowen Xu, Haoyong Wang, Yuguang Fang  
    IEEE Transactions on Dependable and Secure Computing, 2024
 1. **Stealthy Targeted Backdoor Attacks against Image Captioning**  
-   Wenshu Fan, Hongwei Li, Wenbo Jiang, **Meng Hao**, Shui Yu, Xiao Zhang  
+   Wenshu Fan, Hongwei Li, Wenbo Jiang, Meng Hao, Shui Yu, Xiao Zhang  
    IEEE Transactions on Information Forensics and Security, 2024
 1. **Efficient and Privacy-preserving Outsourcing of Gradient Boosting Decision Tree Inference**  
-   Shuai Yuan, Hongwei Li, Xinyuan Qian, **Meng Hao**, Yixiao Zhai, Guowen Xu  
+   Shuai Yuan, Hongwei Li, Xinyuan Qian, Meng Hao, Yixiao Zhai, Guowen Xu  
    IEEE Transactions on Services Computing, 2024
 1. **Vertical Federated Learning across Heterogeneous Regions for Industry 4.0**  
-   Rui Zhang, Hongwei Li, **Meng Hao**, Yuan Zhang  
+   Rui Zhang, Hongwei Li, Meng Hao, Yuan Zhang  
    IEEE Transactions on Industrial Informatics, 2024
 1. **FastSecNet: An Efficient Cryptographic Framework for Neural Network Inference**  
-   **Meng Hao**, Hongwei Li, Hanxiao Chen, Pengzhi Xing, and Tianwei Zhang  
+   Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, and Tianwei Zhang  
    IEEE Transactions on Information Forensics and Security, 2023 
 1. **PriVDT: An Efficient Two-Party Cryptographic Framework for Vertical Decision Trees**  
-   Hanxiao Chen, Hongwei Li, Yingzhe Wang, **Meng Hao**, Guowen Xu, Tianwei Zhang  
+   Hanxiao Chen, Hongwei Li, Yingzhe Wang, Meng Hao, Guowen Xu, Tianwei Zhang  
    IEEE Transactions on Information Forensics and Security, 2022
 1. **Practical Membership Inference Attack Against Collaborative Inference in Industrial IoT**  
-   Hanxiao Chen, Hongwei Li, Guishan Dong, **Meng Hao**, Guowen Xu, Haomiao Yang, Zhe Liu  
+   Hanxiao Chen, Hongwei Li, Guishan Dong, Meng Hao, Guowen Xu, Haomiao Yang, Zhe Liu  
    IEEE Transactions on Industrial Informatics, 2022
 1. **Efficient and Privacy-enhanced Federated Learning for Industrial Artificial Intelligence**   
-   **Meng Hao**, Hongwei Li, Xizhao Luo, Guowen Xu, Haomiao Yang, Sen Liu  
+   Meng Hao, Hongwei Li, Xizhao Luo, Guowen Xu, Haomiao Yang, Sen Liu  
    IEEE Transactions on Industrial Informatics, 2020
