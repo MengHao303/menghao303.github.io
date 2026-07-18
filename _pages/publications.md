@@ -20,6 +20,9 @@ redirect_from:
 
 1. **Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching**  
    Meng Hao, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng   
+   ACM Conference on Computer and Communications Security (ACM CCS), 2026
+1. **Efficient Fuzzy PSI under One-Sided Assumptions**  
+   Xinpeng Yang, Meng Hao, Yanxue Jia, Chenkai Weng, Yonggang Wen, Tianwei Zhang   
    ACM Conference on Computer and Communications Security (ACM CCS), 2026 
 1. **Enhanced Private Set Union from Secret-shared Private Membership Test**  
    Meng Hao, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng   
