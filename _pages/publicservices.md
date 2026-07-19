@@ -13,7 +13,7 @@ redirect_from:
 
 ### Conference Program Committee
 + 2027 S&P, USENIX Security, ACM ASIACCS, PETS
-+ 2026 ACM CCS, EuroS&P, WWW, ACNS
++ 2026 ACM CCS, EuroS&P, ACNS, WWW, ICML
 
 <!--
 + S&P 2027 
