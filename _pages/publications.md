@@ -18,6 +18,12 @@ redirect_from:
 
 ## Conferences
 
+1. **DyFence: Affordable Zero-Knowledge Auditing for Machine-Learning-as-a-Service**  
+   Pengzhi Xing, Meng Hao, Hongwei Li, Shenghao Wu, Ziyao Liu, Lisha Yao, Hanxiao Chen, Guomin Yang, Robert H. Deng   
+   Network and Distributed System Security Symposium (NDSS), 2027
+1. **Vespa: Efficient Secure Aggregation with Integrity Defense under Server Privacy**  
+   Jia Hu, Hongwei Li, Meng Hao, Hanxiao Chen, Pengzhi Xing, Wenbo Jiang, Dongxiao Liu, Haiyang Xue, Robert H. Deng   
+   Network and Distributed System Security Symposium (NDSS), 2027
 1. **Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching**  
    Meng Hao, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng   
    ACM Conference on Computer and Communications Security (ACM CCS), 2026
