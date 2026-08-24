@@ -11,7 +11,9 @@ redirect_from:
 ### About me
 I am a Research Scientist at Singapore Management University (SMU), working with [Prof. Robert H. Deng](http://www.mysmu.edu/faculty/robertdeng/), [Prof. Guomin Yang](https://faculty.smu.edu.sg/profile/yang-guomin-6571), and [Prof. Haiyang Xue](https://haiyangxc.github.io/hyxue/). I received my Ph.D. from University of Electronic Science and Technology of China under the supervision of [Prof. Hongwei Li](https://scholar.google.com/citations?user=-o6u2gwAAAAJ&hl=en). I also spent two years at Nanyang Technological University advised by [Prof. Tianwei Zhang](https://personal.ntu.edu.sg/tianwei.zhang/).
 
-My research focuses on privacy-enhancing technologies, particularly secure multi-party computation and zero-knowledge proofs, and on developing practical cryptographic systems that ensure data privacy and integrity. As the first/corresponding author, he work has published at security venues including IEEE S&P, ACM CCS, USENIX Security, NDSS, ESORICS, ACSAC, IEEE TIFS, and IEEE TDSC. He has served as a Program Committee member for security conferences inlcuding IEEE S&P, ACM CCS, USENIX Security, NDSS, IEEE EuroS&P, ACM AsiaCCS, and PETS. He was named a Stanford/Elsevier World’s Top 2% Scientist in 2025.
+My research focuses on privacy-enhancing technologies, particularly secure multi-party computation and zero-knowledge proofs, and on developing practical cryptographic systems that ensure data privacy and integrity. As first/corresponding author, I have published at security venues, including IEEE S&P, ACM CCS, USENIX Security, NDSS, ACSAC, IEEE TIFS, and IEEE TDSC. I have also served as a Program Committee member for security conferences, including IEEE S&P, ACM CCS, USENIX Security, NDSS, IEEE EuroS&P, ACM AsiaCCS, and PETS. I was named a Stanford/Elsevier World's Top 2% Scientist in 2025.
+
+
 
 
 ### Contact
