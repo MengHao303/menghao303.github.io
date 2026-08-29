@@ -1,0 +1,270 @@
+/* Meng Hao — Academic homepage styles
+   Palette: black text, blue accents. */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: #000000;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0 1.5rem;
+  line-height: 1.6;
+}
+
+/* Content column */
+.intro {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+/* Headings */
+h2 {
+  margin-top: 30px;
+  margin-bottom: 14px;
+  color: #000000;
+  font-size: 30px;
+  font-weight: normal;
+}
+
+h3 {
+  margin-top: 30px;
+  margin-bottom: 14px;
+  color: #000000;
+  font-size: 26px;
+  font-weight: normal;
+  display: inline-block;
+}
+
+h4 {
+  color: #1a5f8f; /* dark blue */
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 14px;
+  margin-bottom: 10px;
+}
+
+p {
+  margin: 0;
+}
+
+/* Portrait */
+.portrait {
+  float: right;
+  max-width: 150px;
+  height: auto;
+  margin: 8px 0 20px 30px;
+}
+
+/* Section navigation */
+.nav-intro {
+  padding-top: 6px;
+  margin-top: 24px;
+  clear: both;
+}
+
+.section-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 26px;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.03);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 10px;
+  padding: 4px 12px;
+  box-sizing: border-box;
+}
+
+.section-nav a {
+  font-size: 18px;
+  font-weight: 500;
+  padding: 4px 12px;
+  border-radius: 6px;
+  border: 1px solid transparent;
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.section-nav a:link,
+.section-nav a:visited {
+  color: #2471A3;
+  text-decoration: none;
+}
+
+.section-nav a:hover {
+  color: #2471A3;
+  background-color: rgba(36, 113, 163, 0.08);
+  border-color: rgba(36, 113, 163, 0.22);
+}
+
+/* Research list */
+.research-list {
+  margin: 10px 0 0 0;
+  padding-left: 24px;
+  line-height: 1.55;
+}
+
+.research-list li {
+  margin-bottom: 8px;
+}
+
+.research-list li::marker {
+  color: #2471A3;
+}
+
+.research-list strong {
+  color: #333333;
+  font-weight: 600;
+}
+
+/* Section header with action buttons */
+.section-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: flex-end;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.section-header h3 {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.section-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-left: 8px;
+}
+
+.section-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 4px 14px;
+  margin: 0;
+  position: relative;
+  top: 14.5px;
+  border-radius: 6px;
+  border: 1px solid rgba(36, 113, 163, 0.35);
+  background-color: #ffffff;
+  color: #2471A3;
+  font-family: inherit;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.2;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+.section-button:hover,
+.section-button:focus-visible {
+  background-color: rgba(36, 113, 163, 0.08);
+  border-color: rgba(36, 113, 163, 0.55);
+  color: #1a5f8f;
+  outline: none;
+}
+
+.section-button.active {
+  background-color: #2471A3;
+  border-color: #2471A3;
+  color: #ffffff;
+}
+
+.section-button.active:hover {
+  background-color: #1a5f8f;
+  border-color: #1a5f8f;
+  color: #ffffff;
+}
+
+a.section-button:link,
+a.section-button:visited {
+  color: #2471A3;
+  background-color: #ffffff;
+  text-decoration: none;
+}
+
+a.section-button:hover,
+a.section-button:focus-visible {
+  color: #1a5f8f;
+  background-color: rgba(36, 113, 163, 0.08);
+  border-color: rgba(36, 113, 163, 0.55);
+}
+
+/* Publication entries */
+.pub-note {
+  color: #555555;
+  font-size: 15px;
+  margin-bottom: 6px;
+}
+
+.pub {
+  padding-left: 20px;
+  margin-bottom: 14px;
+}
+
+.pub .title {
+  color: #333333;
+  font-weight: 600;
+}
+
+.pub .author {
+  color: #000000;
+  font-weight: normal;
+}
+
+.pub .venue {
+  color: #000000;
+  font-weight: normal;
+}
+
+.details {
+  color: #000000;
+  font-weight: normal;
+  white-space: nowrap;
+}
+
+/* Links */
+a:link,
+a:visited {
+  color: #2471A3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3498DB;
+}
+
+/* Section divider */
+.section-divider {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  width: 70%;
+  margin: 24px auto;
+}
+
+/* Mobile: let the column shrink and unfloat the portrait */
+@media (max-width: 700px) {
+  body {
+    font-size: 16px;
+    padding: 0 1rem;
+  }
+  .portrait {
+    float: none;
+    display: block;
+    margin: 10px auto;
+    max-width: 120px;
+  }
+  .details {
+    white-space: normal;
+  }
+}
