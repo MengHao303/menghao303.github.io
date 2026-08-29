@@ -11,14 +11,6 @@
     <meta property="og:title" content="Meng Hao | Academic Homepage">
     <meta property="og:url" content="https://menghao303.github.io/">
     <link rel="stylesheet" href="styles.css">
-    <script>
-      function showView(v) {
-        document.getElementById('pub-by-topic').style.display = (v === 'topic') ? 'block' : 'none';
-        document.getElementById('pub-by-year').style.display = (v === 'year') ? 'block' : 'none';
-        document.getElementById('btn-topic').classList.toggle('active', v === 'topic');
-        document.getElementById('btn-year').classList.toggle('active', v === 'year');
-      }
-    </script>
   </head>
 
   <body id="top">
@@ -81,11 +73,6 @@
     <div class="intro">
       <div class="section-header">
         <h3 id="pubs">Publications</h3>
-        <div class="section-actions">
-          <button type="button" id="btn-topic" class="section-button active" onclick="showView('topic')">By topic</button>
-          <button type="button" id="btn-year" class="section-button" onclick="showView('year')">By year</button>
-          <a class="section-button" href="#top">Back to top</a>
-        </div>
       </div>
       <p class="pub-note"><u>Underlined</u> author: student co-supervised by Meng Hao.</p>
 
@@ -300,233 +287,12 @@
 
       </div>
 
-      <!-- ============ BY YEAR ============ -->
-      <div id="pub-by-year" style="display:none">
-
-        <h4>2027</h4>
-
-        <div class="pub">
-          <p class="title">Vespa: Efficient Secure Aggregation with Integrity Defense under Server Privacy</p>
-          <p class="author"><u>Jia Hu</u>, Hongwei Li, Meng Hao, Hanxiao Chen, Pengzhi Xing, Wenbo Jiang, Dongxiao Liu, Haiyang Xue, Robert H. Deng</p>
-          <p class="venue">Network and Distributed System Security Symposium (NDSS)</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">DyFence: Affordable Zero-Knowledge Auditing for Machine-Learning-as-a-Service</p>
-          <p class="author"><u>Pengzhi Xing</u>, Meng Hao, Hongwei Li, Shenghao Wu, Ziyao Liu, Lisha Yao, Hanxiao Chen, Guomin Yang, Robert H. Deng</p>
-          <p class="venue">Network and Distributed System Security Symposium (NDSS)</p>
-        </div>
-
-        <h4>2026</h4>
-
-        <div class="pub">
-          <p class="title">Efficient Fuzzy Private Set Intersection from Secret-shared OPRF <span class="details">[<a href="https://arxiv.org/abs/2604.14909">paper</a>, <a href="https://zenodo.org/records/19478220">code</a>]</span></p>
-          <p class="author"><u>Xinpeng Yang</u>, Meng Hao, Chenkai Weng, Robert H. Deng, Yonggang Wen, Tianwei Zhang</p>
-          <p class="venue">IEEE Symposium on Security and Privacy (S&amp;P)</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Towards Scalable Fuzzy PSI via Efficient Fuzzy Matching <span class="details">[<a href="https://arxiv.org/abs/2608.11526">paper</a>]</span></p>
-          <p class="author">Meng Hao, Xinpeng Yang, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng</p>
-          <p class="venue">ACM Conference on Computer and Communications Security (CCS)</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Efficient Fuzzy PSI under One-Sided Assumptions <span class="details">[<a href="https://arxiv.org/abs/2608.17770">paper</a>]</span></p>
-          <p class="author"><u>Xinpeng Yang</u>, Meng Hao, Yanxue Jia, Chenkai Weng, Yonggang Wen, Tianwei Zhang</p>
-          <p class="venue">ACM Conference on Computer and Communications Security (CCS)</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Enhanced Private Set Union from Secret-shared Private Membership Test <span class="details">[<a href="https://www.usenix.org/conference/usenixsecurity26/presentation/hao">paper</a>]</span></p>
-          <p class="author">Meng Hao, Guodong Wang, Xinpeng Yang, Pengzhi Xing, Hanxiao Chen, Tianwei Zhang, Haiyang Xue, Guomin Yang, Hongwei Li, Robert H. Deng</p>
-          <p class="venue">USENIX Security Symposium</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">KyberBridge: Enabling One-to-Many Data Sharing with Kyber Cryptosystem</p>
-          <p class="author">Pengfei Wu, Lisha Yao, Guomin Yang, Yang Yang, Meng Hao, Haiyang Xue, Robert H. Deng</p>
-          <p class="venue">European Symposium on Research in Computer Security (ESORICS)</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Cloud-Compatible and Scalable Private Messaging via Authentication Piggybacking</p>
-          <p class="author"><u>Jingwen Lu</u>, Meng Hao, Yuan Zhang, Yaqing Song, Tianhao Yang</p>
-          <p class="venue">IEEE/ACM International Symposium on Quality of Service (IWQoS)</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">T3AT: Threshold-Authorized, Threshold-Redeemable, and Non-Transferable Anonymous Tokens <span class="details">[<a href="https://doi.org/10.1109/TIFS.2026.3684835">paper</a>]</span></p>
-          <p class="author">Xincheng Li, Jian Shen, Jianting Ning, Meng Hao, Leo Yu Zhang</p>
-          <p class="venue">IEEE Transactions on Information Forensics and Security</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Sanitizer: Blazing-fast, Private and Robust Federated Learning <span class="details">[<a href="https://doi.org/10.1109/TIFS.2026.3688131">paper</a>]</span></p>
-          <p class="author">Hanxiao Chen, Hongwei Li, Meng Hao, Jia Hu, Hao Ren, Haomiao Yang, Tianwei Zhang, Guowen Xu</p>
-          <p class="venue">IEEE Transactions on Information Forensics and Security</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">An Advanced Gradient Leakage Attack against Duplicate Labels via Model Outputs Reconstruction <span class="details">[<a href="https://ieeexplore.ieee.org/abstract/document/11367728">paper</a>]</span></p>
-          <p class="author"><u>Kunlan Xiang</u>, Haomiao Yang, Meng Hao, Zikang Ding, Hongwei Li, Qingchuan Zhao, Tianwei Zhang</p>
-          <p class="venue">IEEE Transactions on Dependable and Secure Computing</p>
-        </div>
-
-        <h4>2025</h4>
-
-        <div class="pub">
-          <p class="title">Practical Keyword Private Information Retrieval from Key-to-Index Mappings <span class="details">[<a href="https://eprint.iacr.org/2025/210">paper</a>, <a href="https://github.com/alibaba-edu/mpc4j">code</a>]</span></p>
-          <p class="author">Meng Hao, Weiran Liu, Liqiang Peng, Cong Zhang, Pengfei Wu, Lei Zhang, Hongwei Li, Robert H. Deng</p>
-          <p class="venue">USENIX Security Symposium</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Distributed Function Secret Sharing and Applications <span class="details">[<a href="https://www.ndss-symposium.org/ndss-paper/distributed-function-secret-sharing-and-applications/">paper</a>, <a href="https://github.com/xingpz2008/dealerless-FSS_public">code</a>]</span></p>
-          <p class="author"><u>Pengzhi Xing</u>, Hongwei Li, Meng Hao, Hanxiao Chen, Jia Hu, Dongxiao Liu</p>
-          <p class="venue">Network and Distributed System Security Symposium (NDSS)</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Conan: Secure and Reliable Machine Learning Inference against Malicious Service Providers <span class="details">[<a href="https://doi.org/10.1109/TIFS.2025.3648121">paper</a>]</span></p>
-          <p class="author">Hanxiao Chen, Hongwei Li, Meng Hao, Pengzhi Xing, Jia Hu, Wenbo Jiang, Tianwei Zhang, Guowen Xu</p>
-          <p class="venue">IEEE Transactions on Information Forensics and Security</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">PrivTF: Efficient and Privacy-Preserving Transformer Inference with Optimized Protocols for Secure NLP <span class="details">[<a href="https://doi.org/10.1109/TNSE.2025.3605623">paper</a>]</span></p>
-          <p class="author">Ziwei Peng, Kaiping Xue, Bin Zhu, Yaxuan Huang, Jian Li, Meng Hao, Tianwei Zhang</p>
-          <p class="venue">IEEE Transactions on Network Science and Engineering</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">HyperSiniel: Guaranteed Output Delivery Comes (Almost) Free in Private Delegation of zkSNARKs <span class="details">[<a href="https://doi.org/10.1109/TDSC.2025.3641201">paper</a>]</span></p>
-          <p class="author">Yunbo Yang, Yuejia Cheng, Junkai Liang, Kailun Wang, Xuanming Liu, Xiaoguo Li, Jianfei Sun, Jiachen Shen, Xiaolei Dong, Zhenfu Cao, Meng Hao, Guomin Yang, Kui Ren, Robert H. Deng</p>
-          <p class="venue">IEEE Transactions on Dependable and Secure Computing</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Charge Your Client: Payable Secure Computation and Its Applications <span class="details">[<a href="https://eprint.iacr.org/2025/630">paper</a>]</span></p>
-          <p class="author">Cong Zhang, Liqiang Peng, Weiran Liu, Shuaishuai Li, Meng Hao, Lei Zhang, Dongdai Lin</p>
-          <p class="venue">IEEE Transactions on Information Forensics and Security</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">The Gradient Puppeteer: Adversarial Domination in Gradient Leakage Attacks through Model Poisoning <span class="details">[<a href="https://arxiv.org/abs/2502.04106">paper</a>]</span></p>
-          <p class="author"><u>Kunlan Xiang</u>, Haomiao Yang, Meng Hao, Shaofeng Li, Haoxin Wang, Zikang Ding, Wenbo Jiang, Tianwei Zhang</p>
-          <p class="venue">IEEE Transactions on Information Forensics and Security</p>
-        </div>
-
-        <h4>2024</h4>
-
-        <div class="pub">
-          <p class="title">Scalable Zero-knowledge Proofs for Non-linear Functions in Machine Learning <span class="details">[<a href="https://eprint.iacr.org/2025/507">paper</a>]</span></p>
-          <p class="author">Meng Hao, Hanxiao Chen, Hongwei Li, Chenkai Weng, Yuan Zhang, Haomiao Yang, Tianwei Zhang</p>
-          <p class="venue">USENIX Security Symposium</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Unbalanced Circuit-PSI from Oblivious Key-Value Retrieval <span class="details">[<a href="https://eprint.iacr.org/2023/1636">paper</a>]</span></p>
-          <p class="author">Meng Hao, Weiran Liu, Liqiang Peng, Hongwei Li, Cong Zhang, Hanxiao Chen, Tianwei Zhang</p>
-          <p class="venue">USENIX Security Symposium</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Unbalanced Private Set Union with Reduced Computation and Communication <span class="details">[<a href="https://eprint.iacr.org/2024/1340">paper</a>]</span></p>
-          <p class="author">Cong Zhang, Yu Chen, Weiran Liu, Liqiang Peng, Meng Hao, Anyu Wang, Xiaoyun Wang</p>
-          <p class="venue">ACM Conference on Computer and Communications Security (CCS)</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">SecBNN: Efficient Secure Inference on Binary Neural Networks <span class="details">[<a href="https://doi.org/10.1109/TIFS.2024.3484936">paper</a>]</span></p>
-          <p class="author">Hanxiao Chen, Hongwei Li, Meng Hao, Jia Hu, Guowen Xu, Xilin Zhang, Tianwei Zhang</p>
-          <p class="venue">IEEE Transactions on Information Forensics and Security</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Efficient and Privacy-preserving Outsourcing of Gradient Boosting Decision Tree Inference <span class="details">[<a href="https://doi.org/10.1109/TSC.2024.3395928">paper</a>]</span></p>
-          <p class="author">Shuai Yuan, Hongwei Li, Xinyuan Qian, Meng Hao, Yixiao Zhai, Guowen Xu</p>
-          <p class="venue">IEEE Transactions on Services Computing</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Decentralized Multi-Client Functional Encryption for Inner Product with Applications to Federated Learning <span class="details">[<a href="https://doi.org/10.1109/TDSC.2024.3386357">paper</a>]</span></p>
-          <p class="author">Xinyuan Qian, Hongwei Li, Meng Hao, Guowen Xu, Haoyong Wang, Yuguang Fang</p>
-          <p class="venue">IEEE Transactions on Dependable and Secure Computing</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Vertical Federated Learning across Heterogeneous Regions for Industry 4.0 <span class="details">[<a href="https://doi.org/10.1109/TII.2024.3393492">paper</a>]</span></p>
-          <p class="author">Rui Zhang, Hongwei Li, Meng Hao, Yuan Zhang</p>
-          <p class="venue">IEEE Transactions on Industrial Informatics</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Stealthy Targeted Backdoor Attacks against Image Captioning <span class="details">[<a href="https://arxiv.org/abs/2406.05874">paper</a>]</span></p>
-          <p class="author">Wenshu Fan, Hongwei Li, Wenbo Jiang, Meng Hao, Shui Yu, Xiao Zhang</p>
-          <p class="venue">IEEE Transactions on Information Forensics and Security</p>
-        </div>
-
-        <h4>2023</h4>
-
-        <div class="pub">
-          <p class="title">GuardHFL: Privacy Guardian for Heterogeneous Federated Learning <span class="details">[<a href="https://proceedings.mlr.press/v202/chen23j.html">paper</a>]</span></p>
-          <p class="author">Hanxiao Chen, Meng Hao, Hongwei Li, Kangjie Chen, Guowen Xu, Tianwei Zhang, Xilin Zhang</p>
-          <p class="venue">International Conference on Machine Learning (ICML)</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">FastSecNet: An Efficient Cryptographic Framework for Neural Network Inference <span class="details">[<a href="https://ieeexplore.ieee.org/document/10081492">paper</a>]</span></p>
-          <p class="author">Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Tianwei Zhang</p>
-          <p class="venue">IEEE Transactions on Information Forensics and Security</p>
-        </div>
-
-        <h4>2022</h4>
-
-        <div class="pub">
-          <p class="title">Iron: Private Inference on Transformers <span class="details">[<a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/64e2449d74f84e5b1a5c96ba7b3d308e-Abstract.html">paper</a>, <a href="https://github.com/xingpz2008/Iron">code</a>]</span></p>
-          <p class="author">Meng Hao, Hongwei Li, Hanxiao Chen, Pengzhi Xing, Guowen Xu, Tianwei Zhang</p>
-          <p class="venue">Neural Information Processing Systems (NeurIPS)</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">PriVDT: An Efficient Two-Party Cryptographic Framework for Vertical Decision Trees <span class="details">[<a href="https://doi.org/10.1109/TIFS.2022.3231784">paper</a>]</span></p>
-          <p class="author">Hanxiao Chen, Hongwei Li, Yingzhe Wang, Meng Hao, Guowen Xu, Tianwei Zhang</p>
-          <p class="venue">IEEE Transactions on Information Forensics and Security</p>
-        </div>
-
-        <div class="pub">
-          <p class="title">Practical Membership Inference Attack Against Collaborative Inference in Industrial IoT <span class="details">[<a href="https://doi.org/10.1109/TII.2020.3046648">paper</a>]</span></p>
-          <p class="author">Hanxiao Chen, Hongwei Li, Guishan Dong, Meng Hao, Guowen Xu, Haomiao Yang, Zhe Liu</p>
-          <p class="venue">IEEE Transactions on Industrial Informatics</p>
-        </div>
-
-        <h4>2021</h4>
-
-        <div class="pub">
-          <p class="title">Efficient, Private and Robust Federated Learning <span class="details">[<a href="https://doi.org/10.1145/3485832.3488014">paper</a>]</span></p>
-          <p class="author">Meng Hao, Hongwei Li, Guowen Xu, Hanxiao Chen, Tianwei Zhang</p>
-          <p class="venue">Annual Computer Security Applications Conference (ACSAC)</p>
-        </div>
-
-        <h4>2020</h4>
-
-        <div class="pub">
-          <p class="title">Efficient and Privacy-enhanced Federated Learning for Industrial Artificial Intelligence <span class="details">[<a href="https://doi.org/10.1109/TII.2019.2945367">paper</a>]</span></p>
-          <p class="author">Meng Hao, Hongwei Li, Xizhao Luo, Guowen Xu, Haomiao Yang, Sen Liu</p>
-          <p class="venue">IEEE Transactions on Industrial Informatics</p>
-        </div>
-
-      </div>
     </div>
 
     <!-- Services -->
     <div class="intro">
       <div class="section-header">
         <h3 id="services">Services</h3>
-        <div class="section-actions">
-          <a class="section-button" href="#top">Back to top</a>
-        </div>
       </div>
       <p><strong>Conference Program Committee:</strong></p>
       <ul class="research-list">

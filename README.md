@@ -8,12 +8,11 @@ Single-page static site hosted on GitHub Pages.
 
 ### Updating publications
 
-Publications are listed twice inside `index.html`: once in the **by-topic**
-view (`#pub-by-topic`) and once in the **by-year** view (`#pub-by-year`).
-When adding a paper, add it to both views. Entry format:
+Publications are listed inside `index.html` under `#pub-by-topic`,
+grouped into four topic sections. Entry format:
 
 ```html
-<div class="pub">
+<div class="pub year-YYYY">
   <p class="title">TITLE <span class="details">[<a href="...">paper</a>, <a href="...">code</a>]</span></p>
   <p class="author"><u>Student</u>, Meng Hao, ...</p>
   <p class="venue">Venue, Year</p>
