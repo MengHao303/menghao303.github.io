@@ -145,6 +145,10 @@ p {
   display: none;
 }
 
+.pub-topic > summary::marker {
+  content: "";
+}
+
 .pub-topic > summary h4 {
   margin: 0;
 }
