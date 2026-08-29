@@ -169,6 +169,46 @@ p {
   white-space: nowrap;
 }
 
+/* Collapsible publication topics */
+.pub-topic {
+  margin-top: 14px;
+}
+
+.pub-topic > summary {
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  padding: 4px 0;
+}
+
+.pub-topic > summary::-webkit-details-marker {
+  display: none;
+}
+
+.pub-topic > summary h4 {
+  display: inline;
+}
+
+.pub-topic > summary::before {
+  content: "▸";
+  display: inline-block;
+  margin-right: 8px;
+  color: #2471A3;
+  transition: transform 0.2s ease;
+}
+
+.pub-topic[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+.pub-topic > summary:hover h4 {
+  color: #3498DB;
+}
+
+.pub-topic .pub:last-child {
+  margin-bottom: 4px;
+}
+
 /* Links */
 a:link,
 a:visited {
