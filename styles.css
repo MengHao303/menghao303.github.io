@@ -135,6 +135,8 @@ p {
 }
 
 .pub-topic > summary {
+  display: flex;
+  align-items: center;
   cursor: pointer;
   list-style: none;
   user-select: none;
@@ -146,12 +148,11 @@ p {
 }
 
 .pub-topic > summary h4 {
-  display: inline;
+  margin: 0;
 }
 
 .pub-topic > summary::before {
   content: "▸";
-  display: inline-block;
   margin-right: 8px;
   color: #2471A3;
   transition: transform 0.2s ease;
