@@ -97,6 +97,13 @@ p {
 }
 
 /* Publication entries */
+.pub-stats {
+  color: #1a5fb4;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
 .pub-note {
   color: #555555;
   font-size: 15px;
