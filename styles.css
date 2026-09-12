@@ -104,6 +104,11 @@ p {
   margin-bottom: 6px;
 }
 
+.top-venue {
+  color: #1a5fb4;
+  font-weight: 600;
+}
+
 .pub-note {
   color: #555555;
   font-size: 15px;
